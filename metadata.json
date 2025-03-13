@@ -1,0 +1,1 @@
+{"tenure_bucket": "Forming 3 buckets. 0-6 months, 6-12 months, 13-24 months and 24+ months. 0,1,2,3 respective values", "service_count": "Count active services (PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies", "average_charge": "TotalCharges / tenure"}
